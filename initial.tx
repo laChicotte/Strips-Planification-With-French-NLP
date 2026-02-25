@@ -1,0 +1,1 @@
+[ONTABLE('B'), ONTABLE('E'), CLEAR('E'), ONTABLE('F'), ON('C','B'), CLEAR('C'), ONTABLE('A'), CLEAR('A'), CLEAR('F'), HOLDING('D')]
