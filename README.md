@@ -69,7 +69,7 @@ Le système reconnaît des commandes en français comme :
 - "Dépile A" / "Enlève A"
 - "Prends A" / "Ramasse A"
 - "Dépose A" / "Pose A"
-- "Libère A"
+- "Libère A", etc
 
 ## Exemples
 
